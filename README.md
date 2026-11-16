@@ -2,9 +2,9 @@
 ## Event-Driven GUI Design (AWT, Swing & GUI-JDBC Integration)
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
-- **Department:** Computer Science and Engineering
+- **Name:** Kanish Kumar V
+- **Register Number:** 192524361
+- **Department:** Artificial Intelligence & Data Science
 
 ### Development Environment
 - **IDE:** Visual Studio Code (VS Code)
@@ -66,5 +66,5 @@ java -cp . Task06.CampusEventApp
 - MySQL database schema for Task 6 is located at `Task06/schema.sql`.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** Kanish Kumar V
+**Register Number:** 192524361
